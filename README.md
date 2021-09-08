@@ -1,8 +1,7 @@
 ### Olá! sou o Daniel Medrado 👋
 
-- 🔭 Hoje trabalho com back-end 
-- 🌱 estudando javascript
-- 💬 Meu e-mail: daniel_l0l@hotmail.com
+
+
 
 <div>
   <a href="https://github.com/daniell0l">
