@@ -1,4 +1,4 @@
-### Hi! I'm Daniel Medrado 👋
+### Hi! I'm Daniel Medrado 👋😎💻
 
 
 
