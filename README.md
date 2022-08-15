@@ -7,7 +7,7 @@
 💬 Want to talk about technology, feel free to get in touch 
 <br/>
 
-🐕 I have a dog named Thor
+🐕 I have a dog called Thor
 <br/>
 
 ### 🤝🏽 &nbsp;My contacts.
