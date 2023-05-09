@@ -1,10 +1,5 @@
 # 👨🏻‍💻 about me
 ### Hi! I'm Daniel Medrado 👋😎💻
-I consider myself to be a creative, empathetic and sociable person, who has
-strong communication skills and whoeasily adapts to new environments as
-well as to new challenges. These competences helped me to sell my
-ideas,to engage with my teams and to achieve my professional and personal
-goals.
 
 🐕 I have a dog called Thor<br/>
 💡 always looking my best <br/>
