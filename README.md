@@ -1,15 +1,16 @@
 # 👨🏻‍💻 about me
+### Hi! I'm Daniel Medrado 👋😎💻
+I consider myself to be a creative, empathetic and sociable person, who has
+strong communication skills and whoeasily adapts to new environments as
+well as to new challenges. These competences helped me to sell my
+ideas,to engage with my teams and to achieve my professional and personal
+goals.
 
-## Hi! I'm Daniel Medrado 👋😎💻
-
+🐕 I have a dog called Thor<br/>
 💡 always looking my best <br/>
 🎓 I'm always studying to acquire more knowledge <br/>
 💬 Want to talk about technology, feel free to get in touch 
 <br/>
-
-🐕 I have a dog called Thor
-<br/>
-
 ### 🤝🏽 &nbsp;My contacts.
 <p align="wedth">
 <a href="https://www.linkedin.com/in/daniel-medrado-236750225"><img src="https://img.shields.io/badge/-Daniel%20Medrado-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
