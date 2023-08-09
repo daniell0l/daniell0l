@@ -12,7 +12,7 @@
 <a href="mailto:daniel_l0l@hotmail.com"><img src="https://img.shields.io/badge/-Daniel Medrado-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://api.whatsapp.com/send?phone=5577997009088"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white"/></a></p>
 
-
+  
 
 <div>
   <a href="https://github.com/daniell0l">
